@@ -1,0 +1,5 @@
+git diff head~1..head (diff between latest commit and one commit back here head signifies the latest commit)
+
+git add -u (add the updated file to staging area)
+
+git add filename or git add -A(add new files to staging area .-A flag tells to add all files including untracked one)
