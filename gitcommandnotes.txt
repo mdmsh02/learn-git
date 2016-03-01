@@ -11,3 +11,5 @@ git reset --hard Head~1(revert to one commit below head)
 git checkout filename (revert local modification in file)
 
 git log --max-count 3 (limit log to top 3 commit)
+
+git clean -f (cleans stray files flag -i,-n,-f required)
