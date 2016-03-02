@@ -20,3 +20,11 @@ git branch (to get branches)
 git branch -r (to get remote branches)
 
 git tag (tags signify checkpoint in our code)
+
+git remote add origin https://github.com/mdmsh02/learn-git.git (add local resposistory to remote repository called origin)
+
+git fetch (pull changes from remote use git fetch origin to fetch particular remote repository)
+
+git push (push changes to remote )
+
+git merge origin master (merge remote origin master branch changes to local master branch )
