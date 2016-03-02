@@ -15,3 +15,8 @@ git log --max-count 3 (limit log to top 3 commit)
 git clean -f (cleans stray files flag -i,-n,-f required)
 
 gitignore file to ignore files for resposistory
+
+git branch (to get branches)
+git branch -r (to get remote branches)
+
+git tag (tags signify checkpoint in our code)
