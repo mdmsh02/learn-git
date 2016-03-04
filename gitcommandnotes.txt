@@ -28,3 +28,10 @@ git fetch (pull changes from remote use git fetch origin to fetch particular rem
 git push (push changes to remote )
 
 git merge origin master (merge remote origin master branch changes to local master branch )
+
+creating tag-
+---------------
+git tag -a v1.0 -m "comment"
+git tag -s v1.1 
+
+git push --tag (push tag to remote server)
